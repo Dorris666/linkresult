@@ -1,0 +1,54 @@
+<style>
+.pool-name {
+      color: #ffffff!important;
+      background: linear-gradient(#be50fa, #be50fa) !important;
+      width: 100%!important;
+      font-size: 13px!important;
+      font-weight: bold!important;
+      text-align: center!important;
+      border-bottom: 1px solid #be50fa !important;
+    }
+.note {
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+    .pool-date {
+      font-size: 12px!important;
+      margin-left: 0!important;
+      padding-top: 0!important;
+      text-align: center !important;
+      display: block!important;
+      color: #fff!important;
+    }
+
+    .pool-result {
+      color: #be50fa!important;
+      text-align: center!important;
+      width: 100% !important;
+      font-size: 36px!important;
+      line-height: 1.2!important;
+      float: none !important;
+    }
+  }
+  .panel-blue {
+    background: linear-gradient(to bottom, rgb(165 0 255) 0%, rgb(0 0 0) 50%) !important;
+}
+  .inner-wrap {
+    background: #000;
+  }
+  #slider-hasil .slider {
+    position: relative!important;
+    top: 0 !important;
+    display: block!important;
+  }
+#slider-hasil .results {
+    border: solid 1px #cbcbcb!important;
+    background-color: rgb(0 0 0 / 55%) !important;
+    width: 49% !important;
+    display: inline-block !important;
+    border-radius: 2px !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+}
+</style>
